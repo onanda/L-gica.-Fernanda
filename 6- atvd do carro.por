@@ -2,7 +2,7 @@ programa {
   funcao inicio() {
     real T, D, V
 
-    escreva("Digit a ser percorrida(em km): ")
+    escreva("Digite a ser percorrida(em km): ")
     leia(D)
 
     escreva("Digite a Y média do carro(em km/h): ")
